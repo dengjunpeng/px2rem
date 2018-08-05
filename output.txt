@@ -1,0 +1,97 @@
+
+    1.jpg | 400 266 | 12.5  8.3125
+  
+    2.jpg | 799 529 | 24.96875  16.53125
+  
+    3.jpg | 580 387 | 18.125  12.09375
+  
+    4.jpg | 690 388 | 21.5625  12.125
+  
+    bg_load.jpg | 750 1200 | 23.4375  37.5
+  
+    ended.jpg | 368 640 | 11.5  20
+  
+    favicon.png | 300 300 | 9.375  9.375
+  
+    loading.jpg | 750 1334 | 23.4375  41.6875
+  
+    page2\bg-music-note.png | 750 100 | 23.4375  3.125
+  
+    page1\big-music.png | 750 1273 | 23.4375  39.78125
+  
+    play.png | 200 200 | 6.25  6.25
+  
+    page1\loading-bg.jpg | 750 1268 | 23.4375  39.625
+  
+    page2\bird.png | 120 130 | 3.75  4.0625
+  
+    page3\back.png | 126 47 | 3.9375  1.46875
+  
+    page2\btn-momen.png | 100 35 | 3.125  1.09375
+  
+    poster.jpg | 368 640 | 11.5  20
+  
+    page2\btn-more.png | 100 35 | 3.125  1.09375
+  
+    page3\bird.png | 120 130 | 3.75  4.0625
+  
+    page2\btn-share.png | 100 35 | 3.125  1.09375
+  
+    poster.png | 451 718 | 14.09375  22.4375
+  
+    page2\little-circle.png | 18 17 | 0.5625  0.53125
+  
+    page3\bottom_stuff.png | 750 137 | 23.4375  4.28125
+  
+    page2\mountain.png | 750 143 | 23.4375  4.46875
+  
+    share-img.jpg | 200 200 | 6.25  6.25
+  
+    page3\cello.png | 64 91 | 2  2.84375
+  
+    page2\movie-load-bg.jpg | 750 422 | 23.4375  13.1875
+  
+    page3\keyboard.png | 90 119 | 2.8125  3.71875
+  
+    page2\music-note.png | 71 59 | 2.21875  1.84375
+  
+    page3\mountain.png | 750 139 | 23.4375  4.34375
+  
+    page2\pause.png | 51 50 | 1.59375  1.5625
+  
+    page3\photo-1.jpg | 750 502 | 23.4375  15.6875
+  
+    page2\play.png | 51 49 | 1.59375  1.53125
+  
+    page3\photo-2.jpg | 750 502 | 23.4375  15.6875
+  
+    page2\red-girl.png | 63 93 | 1.96875  2.90625
+  
+    page3\photo-3.jpg | 750 502 | 23.4375  15.6875
+  
+    page2\share-tips.png | 190 130 | 5.9375  4.0625
+  
+    page3\photo-4.jpg | 750 502 | 23.4375  15.6875
+  
+    page2\signup.png | 174 61 | 5.4375  1.90625
+  
+    page3\photo-5.jpg | 750 502 | 23.4375  15.6875
+  
+    page2\stuff.png | 259 41 | 8.09375  1.28125
+  
+    page3\photo-6.jpg | 750 502 | 23.4375  15.6875
+  
+    page2\teacher.png | 85 110 | 2.65625  3.4375
+  
+    page3\photo-7.jpg | 750 502 | 23.4375  15.6875
+  
+    page2\title.png | 409 248 | 12.78125  7.75
+  
+    page3\photo-8.jpg | 750 502 | 23.4375  15.6875
+  
+    page3\photo-8.png | 750 502 | 23.4375  15.6875
+  
+    page3\title.png | 191 55 | 5.96875  1.71875
+  
+    page3\top_stuff.png | 750 154 | 23.4375  4.8125
+  
